@@ -1,0 +1,44 @@
+body{
+    background: url('../image/background.jpg');
+    background-size: cover;
+    font-size: 10px;
+}
+
+.keys{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.playing {
+    transform: scale(1.1);
+    border-color: #ffc600;
+    box-shadow: 0 0 1rem #ffc600;
+  }
+
+.key{
+    background: rgba(0, 0, 0, 0.4);
+    border: .4rem solid black;
+    border-radius: .5rem;
+    color: white;
+    margin: 1rem;
+    padding: 1rem .5rem;
+    transition: all 0.07s ease;
+    text-align: center;
+    text-shadow: 0 0 .5rem black;
+    width: 10rem;
+}
+
+kbd{
+    display: block;
+    font-size: 4rem;
+}
+
+.sound{
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    color: #ffc600;
+}
+
