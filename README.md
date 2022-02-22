@@ -11,4 +11,4 @@ O desafio 1 consiste em uma pagina que responde as teclas do teclado com um som 
 
 
 
-## *Para ter acesso ao website desse projeto acesse https://drumkit91.netlify.app/*
+## *Para ter acesso ao website desse projeto acesse https://drumkit-challenge.netlify.app/*
